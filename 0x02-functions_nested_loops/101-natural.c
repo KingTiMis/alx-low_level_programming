@@ -9,7 +9,7 @@ int main(void)
 {
 	int a, z = 0;
 
-	while (a < 1028)
+	while (a < 1024)
 	{
 	if ((a % 3 == 0) || (a % 5 == 0))
 	{
