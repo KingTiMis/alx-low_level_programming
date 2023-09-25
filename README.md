@@ -1,1 +1,1 @@
-0x00. C - Hello, World
+This is for projects on c programming for my ALX SWE program
