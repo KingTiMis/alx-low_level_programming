@@ -7,7 +7,7 @@ void close_file(int fd);
 
 /**
 * create_buffer - allocate memory space of size 1024 to a buffer
-* @file_from: initial file to copy and check
+* @file: File name for storing char pointer
 *
 * Return: In the allocated memory space retrurns a pointer
 */
@@ -102,3 +102,4 @@ int main(int argc, char *argv[])
 
 	return (0);
 }
+
